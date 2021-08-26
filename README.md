@@ -10,14 +10,23 @@ allow to filter on these result and check every phone vaild or not depend on the
 the project have :
 
 1- Controller layer 
+
 2- service layer 
+
 3- repostory layer 
+
 4- testing SpringJUnit4ClassRunner and using MockMvc 
+
 5- docker  
+
 create dockerfile that have configuration for creater image for project 
+
 mv clean package 
+
 mv install 
+
 docker build --build-arg JAR_FILE="build/libs/*.jar" -t splitdemo/spring-boot-docker .	
+
 
 
 
