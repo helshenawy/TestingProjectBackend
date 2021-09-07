@@ -1,7 +1,7 @@
-# JumiaBackend
-Task Jumia Backend 
+#  Task Backend
+Task Backend 
 
-This backend project Spring boot for Task jumia that have sqlite by adding dependency sqlite-dialect and reading sample database which it exist with task.
+This backend project Spring boot for Task  that have sqlite by adding dependency sqlite-dialect and reading sample database which it exist with task.
 
 Send request http from frontend to read the sample database in file sample and showing it on page and 
 allow to filter on these result and check every phone vaild or not depend on the regular experssion .
